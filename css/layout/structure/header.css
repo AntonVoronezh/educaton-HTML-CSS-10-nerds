@@ -4,6 +4,7 @@
 
 .header {
     display: flex;
+    flex-direction: column;
     align-items: flex-end;
     justify-content: center;
     background-color: #eeeeee;
@@ -21,4 +22,20 @@
 
 .basket {
     margin-left: auto;
+}
+
+.header-container-bottom {
+    /* border: 1px solid #000000; */
+    padding-top: 30px;
+    display: flex;
+}
+
+.slogan {
+    width: 30%;
+    border: 1px solid #000000;
+}
+
+.slide {
+    flex: 1;
+    border: 1px solid #000000;
 }
