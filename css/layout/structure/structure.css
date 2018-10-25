@@ -20,18 +20,18 @@
 
 .wrapper__content {
     flex: 1 0 auto;
-    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
 }
 
 .header {
     min-height: 125px;
-    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
 }
 
 .footer {
     flex: 0 0 auto;
     min-height: 200px;
-    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
 }
 
 .maincontent {
