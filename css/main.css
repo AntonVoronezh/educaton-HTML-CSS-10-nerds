@@ -12,4 +12,6 @@
 @import url('../css/blocks/header/navigation.css');
 @import url('../css/blocks/header/basket.css');
 @import url('../css/blocks/header/slide.css');
-
+@import url('../css/blocks/header/slogan.css');
+@import url('../css/blocks/footer/map.css');
+@import url('../css/blocks/footer/address.css');
