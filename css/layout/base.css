@@ -10,9 +10,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
     color: #000000;
     /* подключить  шрифт*/
-    /* font-family: 'TitilliumWeb', sans-serif; */
-    /* font-size: 0;
-    line-height: ; */
+    font-family: 'Roboto Regular', sans-serif;
+    font-size: 14px;
+    line-height: 1.1;
 }
 
 .visually-hidden {
