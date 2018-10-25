@@ -1,24 +1,6 @@
 /****************************
 **      AntonVoronezh
 ****************************/
-
-.offer {
-    padding-top: 60px;
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
-    /* border: 1px solid #000000; */
-}
-
-.sites,
-.applications,
-.presentations {
-    width: 28%;
-    display: flex;
-    flex-direction: column;
-    /* border: 1px solid #000000; */
-}
-
 .sites__title,
 .applications__title,
 .presentations__title {
